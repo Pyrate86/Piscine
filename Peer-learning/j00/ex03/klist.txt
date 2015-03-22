@@ -1,0 +1,8 @@
+Credentials cache: API:9204
+        Principal: ghilbert@42.FR
+
+  Issued                Expires               Principal
+Jul  1 14:10:46 2014  Jul  2 00:10:46 2014  krbtgt/42.FR@42.FR
+Jul  1 14:10:49 2014  Jul  2 00:10:46 2014  nfs/zfs-student-1.42.fr@42.FR
+Jul  1 14:10:50 2014  Jul  2 00:10:46 2014  nfs/zfs-student-2.42.fr@42.FR
+Jul  1 15:00:24 2014  Jul  2 00:10:46 2014  host/vogsphere-frontend-normal-1.42.fr@42.FR
